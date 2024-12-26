@@ -29,3 +29,10 @@ Imagine we’re working on some code, but our work isn’t complete yet. Suddenl
 2. **Create a stash with a message**:  
    `git stash save "WIP: fixing bugs"` helps identify your stash later.
 
+
+
+## Scenarios
+
+#### with two different branches:
+ -  main and branch2 
+ 
